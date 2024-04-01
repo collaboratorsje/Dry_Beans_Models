@@ -72,6 +72,8 @@ Install the project requirements:
 
     python3 -m pip install -r ./requirements.txt
 
+### Setup Complete!
+You can now go to the src folder and start running the cells in the Models.ipynb file!
 
 ### Notes
 - Ensure you have Python 3.x installed before proceeding with the setup.
