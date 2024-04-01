@@ -5,31 +5,38 @@ Introduction to Statistical Learning (CS5565) - Team Project Repository
 
 Team Members: x, x, x, Seth Emery
 
-Requirements
+# Requirements
 Python 3.x
 
-Windows
+# Windows
 Pull Repository
 
 git clone https://github.com/collaboratorsje/Dry_Beans_Models.git
-Virtual Environment Setup
+
+# Virtual Environment Setup
 
 cd swe-capstone
 python -m venv venv 
 Activate Virtual Environment (Must do every time you launch, you'll see (venv) in your terminal)
 
 .\venv\Scripts\Activate.ps1 # If using Powershell
+
 or
 
 .\venv\Scripts\activate.bat # If using Command Prompt
+
 Install Requirements
 
 python -m pip install -r .\requirements.txt
 
-Mac
+# Mac
 Note: The Mac setup is similar to the Windows setup, but with slight command differences.
 
-Virtual Environment Setup
+Pull Repository
+
+git clone https://github.com/collaboratorsje/Dry_Beans_Models.git
+
+# Virtual Environment Setup
 
 python3 -m virtualenv venv 
 Activate Virtual Environment (Must do every time you launch, you'll see (venv) in your terminal)
