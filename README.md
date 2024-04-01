@@ -14,16 +14,19 @@ A project that builds four models to predict the class of dry beans.
 
 ### Windows Setup
 
+
 #### Pull Repository
 Clone the repository to get started:
 
 git clone https://github.com/collaboratorsje/Dry_Beans_Models.git
+
 
 #### Virtual Environment Setup
 Navigate to the project directory and create a virtual environment:
 
 cd Dry_Beans_Models
 python -m venv venv
+
 
 ##### Activate Virtual Environment
 (Must do every time you launch, you'll see `(venv)` in your terminal)
@@ -34,18 +37,22 @@ or
 
 .\venv\Scripts\activate.bat # If using Command Prompt
 
+
 #### Install Requirements
 Install the project requirements:
 
 python -m pip install -r .\requirements.txt
 
+
 ### Mac Setup
 Note: The Mac setup is similar to the Windows setup, but with slight command differences.
+
 
 #### Pull Repository
 Clone the repository to get started:
 
 git clone https://github.com/collaboratorsje/Dry_Beans_Models.git
+
 
 #### Virtual Environment Setup
 Navigate to the project directory and create a virtual environment:
@@ -53,15 +60,18 @@ Navigate to the project directory and create a virtual environment:
 cd Dry_Beans_Models
 python3 -m venv venv
 
+
 ##### Activate Virtual Environment
 (Must do every time you launch, you'll see `(venv)` in your terminal)
 
 source ./venv/bin/activate
 
+
 #### Install Requirements
 Install the project requirements:
 
 python3 -m pip install -r ./requirements.txt
+
 
 ### Notes
 - Ensure you have Python 3.x installed before proceeding with the setup.
