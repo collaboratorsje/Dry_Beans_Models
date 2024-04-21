@@ -4,9 +4,9 @@ A project that builds four models to predict the class of dry beans.
 ## Introduction to Statistical Learning (CS5565) - Team Project Repository
 
 ### Team Members
-- [Member Name]
-- [Member Name]
-- [Member Name]
+- Hrishikesh Komaragiri
+- Parvez Ali Ahmed Shaik
+- Shivani Nagamandla
 - Seth Emery
 
 ## Requirements
